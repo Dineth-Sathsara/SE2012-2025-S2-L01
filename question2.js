@@ -9,7 +9,7 @@ public class Marks {
         System.out.print("Enter number of students: ");
         int n = input.nextInt();
 
-        // marks[student][subject]
+        
         int[][] marks = new int[n][3];
 
         while (true) {
