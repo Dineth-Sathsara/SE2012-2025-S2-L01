@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Marks {
 
-    // Method to calculate grade
+    
     public static String getGrade(int mark) {
 
         if (mark >= 90) {
